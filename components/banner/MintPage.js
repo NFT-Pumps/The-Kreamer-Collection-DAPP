@@ -96,10 +96,10 @@ const MintPage = () => {
               <Col lg="6" md="6" className="align-self-center">
                 {(currentUseState.network == "rinkeby") ? <h3 style={{ color: "#fff" }}>DEMO ONLY RINKEBY</h3> : ""}
                 <h3 className="title">
-                  A blockchain project built by Community.
+                
                 </h3>
                 <h4 className="subtitle font-light">
-                  An original collection consisting of 3,333 unique Monsters living on the Ethereum blockchain
+                  
                   <br />
                 </h4>
                 <a
@@ -109,7 +109,7 @@ const MintPage = () => {
                   Connect Wallet
                 </a>
                 <Link href={process.env.mainWWW}>
-                  <a className="btn btn-md m-t-30  btn-outline-light " style={{ backgroundColor: "#760680" }}>
+                  <a className="btn btn-md m-t-30  btn-outline-light " style={{ backgroundColor: "#fa0064" }}>
                     Back Home
                   </a>
                 </Link>
@@ -172,11 +172,11 @@ const MintPage = () => {
                 </>
               </Col>
             }
-            <Col lg="6" md="6" >
+            {/* <Col lg="6" md="6" >
               <div style={{ paddingTop: "120px", paddingBottom: "100px" }}>
                 <Image src={bannerimg} alt="Monster Window" />
               </div>
-            </Col>
+            </Col> */}
           </Row>
         </Container>
       </div>

@@ -5,7 +5,7 @@ module.exports = {
   analyticsId: '7vsHWbYwcKpA3lFTng2Qe9iNzE7',
   env: {
     siteTitle: "The Monster Community Minting Dapp",
-    contractAddress: "0xE28dbFfCc0400D326285FA9761540fA6914B3e11",
+    contractAddress: "0x22a9f5A304E55412fA5BeFd2DB94AAf13d29F1B3",
     infuraID: "045e9c65387a4200aa8559c347fa19a4",
     defaultGas: 125000,//75000,
     mintType : "Pre-Sale", //Pre-Sale Public
@@ -17,8 +17,8 @@ module.exports = {
     chainId: 1,
     //mintType: "Whitelist",
     blockExplorerURL: 'https://etherscan.io/',
-    www: 'https://www.themonstercommunity.com',
-    mainWWW: 'https://www.themonstercommunity.com',
+    www: 'https://www.thekreamercollection.com',
+    mainWWW: 'https://www.thekreamercollection.com',
     title: 'The Monster Community',
     links : {
       opensea : "https://opensea.io/collection/the-monster-community",

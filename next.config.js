@@ -4,7 +4,7 @@ module.exports = {
   reactStrictMode: false,
   analyticsId: '7vsHWbYwcKpA3lFTng2Qe9iNzE7',
   env: {
-    siteTitle: "The Monster Community Minting Dapp",
+    siteTitle: "The Kreamer Collection DAPP",
     contractAddress: "0x22a9f5A304E55412fA5BeFd2DB94AAf13d29F1B3",
     infuraID: "045e9c65387a4200aa8559c347fa19a4",
     defaultGas: 125000,//75000,
@@ -19,7 +19,7 @@ module.exports = {
     blockExplorerURL: 'https://etherscan.io/',
     www: 'https://www.thekreamercollection.com',
     mainWWW: 'https://www.thekreamercollection.com',
-    title: 'The Monster Community',
+    title: 'The Kreamer Collection',
     links : {
       opensea : "https://opensea.io/collection/the-monster-community",
       discord : "https://discord.gg/y4VNSfJd5Q",
